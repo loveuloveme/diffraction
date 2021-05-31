@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/diffraction/static/css/main.b38e6eb9.chunk.css",
-    "main.js": "/diffraction/static/js/main.104b97f6.chunk.js",
-    "main.js.map": "/diffraction/static/js/main.104b97f6.chunk.js.map",
+    "main.js": "/diffraction/static/js/main.a8782d4a.chunk.js",
+    "main.js.map": "/diffraction/static/js/main.a8782d4a.chunk.js.map",
     "runtime-main.js": "/diffraction/static/js/runtime-main.97befd0b.js",
     "runtime-main.js.map": "/diffraction/static/js/runtime-main.97befd0b.js.map",
     "static/js/2.f815b620.chunk.js": "/diffraction/static/js/2.f815b620.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.97befd0b.js",
     "static/js/2.f815b620.chunk.js",
     "static/css/main.b38e6eb9.chunk.css",
-    "static/js/main.104b97f6.chunk.js"
+    "static/js/main.a8782d4a.chunk.js"
   ]
 }
