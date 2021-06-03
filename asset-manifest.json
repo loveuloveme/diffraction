@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/diffraction/static/css/main.b38e6eb9.chunk.css",
-    "main.js": "/diffraction/static/js/main.a8782d4a.chunk.js",
-    "main.js.map": "/diffraction/static/js/main.a8782d4a.chunk.js.map",
+    "main.css": "/diffraction/static/css/main.d0391c63.chunk.css",
+    "main.js": "/diffraction/static/js/main.7bc98330.chunk.js",
+    "main.js.map": "/diffraction/static/js/main.7bc98330.chunk.js.map",
     "runtime-main.js": "/diffraction/static/js/runtime-main.97befd0b.js",
     "runtime-main.js.map": "/diffraction/static/js/runtime-main.97befd0b.js.map",
-    "static/js/2.f815b620.chunk.js": "/diffraction/static/js/2.f815b620.chunk.js",
-    "static/js/2.f815b620.chunk.js.map": "/diffraction/static/js/2.f815b620.chunk.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/diffraction/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.ff1ea875.chunk.js": "/diffraction/static/js/2.ff1ea875.chunk.js",
+    "static/js/2.ff1ea875.chunk.js.map": "/diffraction/static/js/2.ff1ea875.chunk.js.map",
     "index.html": "/diffraction/index.html",
-    "static/css/main.b38e6eb9.chunk.css.map": "/diffraction/static/css/main.b38e6eb9.chunk.css.map",
-    "static/js/2.f815b620.chunk.js.LICENSE.txt": "/diffraction/static/js/2.f815b620.chunk.js.LICENSE.txt"
+    "static/css/2.4c97ca4f.chunk.css.map": "/diffraction/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.d0391c63.chunk.css.map": "/diffraction/static/css/main.d0391c63.chunk.css.map",
+    "static/js/2.ff1ea875.chunk.js.LICENSE.txt": "/diffraction/static/js/2.ff1ea875.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.97befd0b.js",
-    "static/js/2.f815b620.chunk.js",
-    "static/css/main.b38e6eb9.chunk.css",
-    "static/js/main.a8782d4a.chunk.js"
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.ff1ea875.chunk.js",
+    "static/css/main.d0391c63.chunk.css",
+    "static/js/main.7bc98330.chunk.js"
   ]
 }
